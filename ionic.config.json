@@ -1,5 +1,7 @@
 {
   "name": "KommSampleIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
